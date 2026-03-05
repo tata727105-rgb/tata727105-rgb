@@ -185,5 +185,3 @@ Various **automation tools, scripts, and development utilities** .
 - Researching **web and network security**
 
 ---
-
-⭐ *If you find my work interesting, feel free to explore the repositories and projects available on my GitHub.*
