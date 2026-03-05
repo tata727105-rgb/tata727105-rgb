@@ -140,13 +140,13 @@ Various **automation tools, scripts, and development utilities** published on Gi
 <p>
  <strong>- **Email:**</strong>  ma.business912@gmail.com</a><br>
 
-<a href="https://www.linkedin.com/in/mouhamed-achiche ">
-<strong>- **LinkedIn:**</strong></a>https://www.linkedin.com/in/mouhamed-achiche<br>
 
-<a href="https://portfol1o-mohamed.vercel.app/">
- <strong>- **Portfolio:**</strong>https://portfol1o-mohamed.vercel.app</a><br>
-<a href="https://github.com/tata727105-rgb">
-<strong>- **Github:**</strong></a>https://github.com/tata727105-rgb<br>
+<strong>- **LinkedIn:**</strong><a href="https://www.linkedin.com/in/mouhamed-achiche ">https://www.linkedin.com/in/mouhamed-achiche</a><br>
+
+
+ <strong>- **Portfolio:**</strong><a href="https://portfol1o-mohamed.vercel.app/">https://portfol1o-mohamed.vercel.app</a><br>
+
+<strong>- **Github:**</strong><a href="https://github.com/tata727105-rgb">https://github.com/tata727105-rgb</a><br>
 
 </p>
 ---
