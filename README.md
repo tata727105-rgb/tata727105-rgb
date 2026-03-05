@@ -68,14 +68,8 @@ A mobile learning platform designed to help users practice and improve their Ger
 ### AI-Assisted Healthcare System
 A healthcare management platform integrating **AI-assisted features for improved data analysis and automation**.
 
-### Nmap GUI Tool
-A graphical interface for **network scanning and analysis**, built on top of Nmap to simplify network reconnaissance and visualization.
-
-### Smart Home Automation System
-An **IoT-based smart home system** designed for automation, monitoring, and device control.
-
 ### Python Tools & Utilities
-Various **automation tools, scripts, and development utilities** published on GitHub.
+Various **automation tools, scripts, and development utilities** .
 
 ---
 
