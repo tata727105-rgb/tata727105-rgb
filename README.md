@@ -138,22 +138,17 @@ Various **automation tools, scripts, and development utilities** published on Gi
 # 🌐 Connect With Me
 
 <p align="center">
-
-<a href="mailto:ma.business912@gmail.com">
-  ma.business912@gmail.com
-<img src="https://img.shields.io/badge/Email-contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+ - **Email:**  ma.business912@gmail.com
 </a>
 
-<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/mouhamed-achiche )">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/mouhamed-achiche ">
+- **LinkedIn:**</a>
 
 <a href="[https://YOUR-PORTFOLIO-WEBSITE](https://portfol1o-mohamed.vercel.app/)">
-<img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+- **Portfolio:**
 </a>
-
 <a href="https://github.com/tata727105-rgb">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+- **Github:**
 </a>
 
 </p>
