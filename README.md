@@ -54,7 +54,7 @@ Alongside development, I actively work on **security research, vulnerability ass
 
 ---
 
-# 🏆 Selected Projects
+# 🏆 Selected Projects (avaidble on My portfolio)
 
 ### Event Management Platform
 A full-stack event management system designed for scalable event organization, scheduling, and user management.
