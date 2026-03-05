@@ -137,19 +137,16 @@ Various **automation tools, scripts, and development utilities** published on Gi
 
 # 🌐 Connect With Me
 
-<p align="center">
- - **Email:**  ma.business912@gmail.com
-</a>
+<p>
+ <strong>- **Email:**</strong>  ma.business912@gmail.com</a><br>
 
 <a href="https://www.linkedin.com/in/mouhamed-achiche ">
-- **LinkedIn:**</a>
+<strong>- **LinkedIn:**</strong></a>https://www.linkedin.com/in/mouhamed-achiche<br>
 
-<a href="[https://YOUR-PORTFOLIO-WEBSITE](https://portfol1o-mohamed.vercel.app/)">
-- **Portfolio:**
-</a>
+<a href="https://portfol1o-mohamed.vercel.app/">
+ <strong>- **Portfolio:**</strong>https://portfol1o-mohamed.vercel.app</a><br>
 <a href="https://github.com/tata727105-rgb">
-- **Github:**
-</a>
+<strong>- **Github:**</strong></a>https://github.com/tata727105-rgb<br>
 
 </p>
 ---
