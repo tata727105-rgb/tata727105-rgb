@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Achiche</h1>
 
 <h3 align="center">
-Software Developer • Full-Stack Engineer • Cybersecurity Enthusiast
+Software & Full-Stack Developer • Cybersecurity Enthusiast
 </h3>
 
 <p align="center">
